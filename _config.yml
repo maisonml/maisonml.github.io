@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://maisonml.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -24,13 +24,11 @@ title:                 Maison ML
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Decoding everyday ML".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  "Decoding everyday ML"
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Decoding everyday ML".
-  Open `_config.yml` to edit this text.
+  "Decoding everyday ML"
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,17 +40,17 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Dhivya> <Ravindran>
+  email:               <dhivyaravindran@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
   - title:             Maison ML
-    url:               /hydejack/
+    url:               /learning/
   - title:             Hyde
-    url:               /hyde/
+    url:               /categories/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -67,13 +65,13 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved.
+copyright:             © 2019 Dhivya Ravindran. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
+paginate:              20
 paginate_path:         /page-:num/
 
 
