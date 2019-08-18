@@ -2,7 +2,7 @@
 email:
   name: Email
   icon: icon-mail
-  prepend: 'mailto:dhivyaravindran@gmail.com'
+  prepend: 'mailto:'
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -104,7 +104,7 @@ ondrive:
 github:
   name: GitHub
   icon: icon-github
-  prepend: "https://github.com/maisonml"
+  prepend: "https://github.com/"
 npm:
   name: npm
   icon: icon-npm
@@ -159,7 +159,7 @@ wikipedia:
 linkedin:
   name: LinkedIn
   icon: icon-linkedin2
-  prepend: "https://www.linkedin.com/in/dhivyar"
+  prepend: "https://www.linkedin.com/in/"
 lastfm:
   name: Last.fm
   icon: icon-lastfm
