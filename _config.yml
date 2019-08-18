@@ -47,13 +47,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Maison ML
+  - title:             Machine Learning
     url:               /learning/
-  - title:             Hyde
+  - title:             Categories
     url:               /categories/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
+   - title:             About
     url:               /about/
 
 # Add links to the footer.
