@@ -47,11 +47,13 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:              Machine Learning
-    url:               /hyde/
-  - title:              Categories
+  - title:             Machine Learning
     url:               /hydejack/
-   - title:             About
+  - title:             Categories
+    url:               /hyde/
+  - title:             Documentation
+    url:               /docs/
+  - title:             About
     url:               /about/
 
 # Add links to the footer.
