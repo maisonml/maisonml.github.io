@@ -1,9 +1,9 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+dhivya:
+  name:              <Dhivya> <Ravindran>
+  email:             <dhivyaravindran@gmail.com>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -33,9 +33,9 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    #twitter:         <username>
+    github:          <dhivyar>
+    email:           <dhivyaravindran@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -64,7 +64,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        <dhivyar>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
