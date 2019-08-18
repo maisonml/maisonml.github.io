@@ -34,8 +34,8 @@ dhivya:
   # Rearrange to change the order in which they appear
   social:
     #twitter:         <username>
-    github:          <dhivyar>
-    email:           <dhivyaravindran@gmail.com>
+    github:          <username>
+    email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -64,7 +64,7 @@ dhivya:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        <dhivyar>
+    linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
