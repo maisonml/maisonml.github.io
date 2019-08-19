@@ -48,11 +48,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Machine Learning
-    url:               /hydejack/
+    url:               /learning/
   - title:             Categories
     url:               /hyde/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
 
