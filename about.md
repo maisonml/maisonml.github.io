@@ -4,12 +4,16 @@ image: /assets/img/blog/hydejack-8.png
 
 # About
 
-"Maison ML: Decoding everyday ML".
+"Maison ML: Data, Reports and Analyses of the COVID-19 Pandemic".
 {:.lead}
 
-**Maison ML** was started by Dhivya Ravindran. She started Maison ML to serve as a everyday reference for Machine Learning and Data Science problems and situations faced by Data Scientists. 
+### About Maison ML
 
-She was formerly working as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She also worked as a Chief Data Scientist in **Grandatos**, a pioneering Analytics venture and also as a Senior Tech Engineer in **IBM** Global Business Services.
+**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of daily situation reports and trend analyses to track and monitor the **COVID-19 Pandemic**. 
+
+### About the Author of Maison ML
+
+**Dhivya Ravindran** was formerly working as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She also worked as a Chief Data Scientist in **Grandatos**, a pioneering Analytics venture and also as a Senior Tech Engineer in **IBM** Global Business Services.
 
 She holds an Executive Programme in Global Business Management from **IIM Calcutta**, a premier business school in Asia and also a Masters in Industrial Engineering degree from **College of Engineering Guindy, Anna University** in India.
 
