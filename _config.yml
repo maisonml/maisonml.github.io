@@ -19,19 +19,19 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Maison ML
+title:                 COVID-19 Analytics
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Decoding everyday ML"
+  "Data, Reports and Analyses of the COVID-19 Pandemic"
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Decoding everyday ML"
+  "Data, Reports and Analyses of the COVID-19 Pandemic"
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [COVID-19]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -49,8 +49,6 @@ author:
 menu:
   - title:             Machine Learning
     url:               /hydejack/
-  - title:             Categories
-    url:               /hyde/
   - title:             About
     url:               /about/
 
@@ -63,7 +61,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019 Dhivya Ravindran. All rights reserved.
+copyright:             © 2020 Dhivya Ravindran. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
