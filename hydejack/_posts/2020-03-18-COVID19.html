@@ -396,382 +396,2438 @@ summary {
 <h3>Overall Recovery Rate Worldwide in %</h3>
 <pre><code>## [1] 43.01</code></pre>
 </div>
-<div id="overall-confirmed-cases-and-deaths-countrywise" class="section level3">
-<h3>Overall Confirmed Cases and Deaths Countrywise</h3>
-<pre><code>##                       Country.Region TotalConfirmed TotalDeaths
-## 1                              China          81033        3217
-## 2                              Italy          27980        2158
-## 3                               Iran          14991         853
-## 4                              Spain           9942         342
-## 5                       Korea, South           8236          75
-## 6                            Germany           7272          17
-## 7                             France           6650         148
-## 8                                 US           4632          85
-## 9                        Switzerland           2200          14
-## 10                    United Kingdom           1551          56
-## 11                       Netherlands           1414          24
-## 12                            Norway           1333           3
-## 13                            Sweden           1103           6
-## 14                           Belgium           1058           5
-## 15                           Austria           1018           3
-## 16                           Denmark            932           3
-## 17                             Japan            825          27
-## 18                       Cruise Ship            696           7
-## 19                          Malaysia            566           0
-## 20                             Qatar            439           0
-## 21                            Canada            415           4
-## 22                         Australia            377           3
-## 23                            Greece            331           4
-## 24                          Portugal            331           0
-## 25                           Czechia            298           0
-## 26                           Finland            277           0
-## 27                            Israel            255           0
-## 28                          Slovenia            253           1
-## 29                         Singapore            243           0
-## 30                           Bahrain            214           1
-## 31                           Estonia            205           0
-## 32                            Brazil            200           0
-## 33                           Iceland            180           0
-## 34                            Poland            177           4
-## 35                           Ireland            169           2
-## 36                           Romania            158           0
-## 37                             Chile            155           0
-## 38                             Egypt            150           2
-## 39                          Thailand            147           1
-## 40                       Philippines            142          12
-## 41                          Pakistan            136           0
-## 42                         Indonesia            134           5
-## 43                              Iraq            124          10
-## 44                            Kuwait            123           0
-## 45                             India            119           2
-## 46                      Saudi Arabia            118           0
-## 47                        San Marino            109           7
-## 48                           Lebanon             99           3
-## 49              United Arab Emirates             98           0
-## 50                            Russia             90           0
-## 51                              Peru             86           0
-## 52                        Luxembourg             77           1
-## 53                           Taiwan*             67           1
-## 54                          Slovakia             63           0
-## 55                      South Africa             62           0
-## 56                           Vietnam             61           0
-## 57                           Croatia             57           0
-## 58                         Argentina             56           2
-## 59                            Panama             55           1
-## 60                            Serbia             55           0
-## 61                           Algeria             54           4
-## 62                            Brunei             54           0
-## 63                          Colombia             54           0
-## 64                            Mexico             53           0
-## 65                           Armenia             52           0
-## 66                          Bulgaria             52           2
-## 67                           Albania             51           1
-## 68                           Hungary             39           1
-## 69                           Ecuador             37           2
-## 70                           Belarus             36           0
-## 71                        Costa Rica             35           0
-## 72                            Latvia             34           0
-## 73                            Cyprus             33           0
-## 74                           Georgia             33           0
-## 75                             Malta             30           0
-## 76                           Morocco             29           1
-## 77                         Sri Lanka             28           0
-## 78            Bosnia and Herzegovina             25           0
-## 79                           Senegal             24           0
-## 80                           Moldova             23           0
-## 81                              Oman             22           0
-## 82                       Afghanistan             21           0
-## 83                           Tunisia             20           0
-## 84                   North Macedonia             18           0
-## 85                            Turkey             18           0
-## 86                            Jordan             17           0
-## 87                         Lithuania             17           0
-## 88                         Venezuela             17           0
-## 89                        Azerbaijan             15           1
-## 90                      Burkina Faso             15           0
-## 91                        Martinique             15           1
-## 92                          Maldives             13           0
-## 93                           Bolivia             11           0
-## 94                Dominican Republic             11           0
-## 95                     French Guiana             11           0
-## 96                           Jamaica             10           0
-## 97                        Kazakhstan             10           0
-## 98                           Reunion              9           0
-## 99                        Bangladesh              8           0
-## 100                      New Zealand              8           0
-## 101                         Paraguay              8           0
-## 102                          Uruguay              8           0
-## 103                         Cambodia              7           0
-## 104                           Monaco              7           0
-## 105                          Ukraine              7           1
-## 106                            Ghana              6           0
-## 107                       Guadeloupe              6           0
-## 108                         Honduras              6           0
-## 109                       Uzbekistan              6           0
-## 110                         Ethiopia              5           0
-## 111                           Rwanda              5           0
-## 112                         Cameroon              4           0
-## 113                             Cuba              4           0
-## 114                           Guyana              4           1
-## 115                    Liechtenstein              4           0
-## 116              Trinidad and Tobago              4           0
-## 117                             Guam              3           0
-## 118                            Kenya              3           0
-## 119                      Puerto Rico              3           0
-## 120                       Seychelles              3           0
-## 121                          Andorra              2           0
-## 122                            Aruba              2           0
-## 123                 Congo (Kinshasa)              2           0
-## 124                        Guatemala              2           1
-## 125                           Jersey              2           0
-## 126                           Kosovo              2           0
-## 127                          Namibia              2           0
-## 128                          Nigeria              2           0
-## 129                      Saint Lucia              2           0
-## 130              Antigua and Barbuda              1           0
-## 131                            Benin              1           0
-## 132                           Bhutan              1           0
-## 133         Central African Republic              1           0
-## 134              Congo (Brazzaville)              1           0
-## 135                    Cote d'Ivoire              1           0
-## 136                Equatorial Guinea              1           0
-## 137                         Eswatini              1           0
-## 138                            Gabon              1           0
-## 139                        Greenland              1           0
-## 140                         Guernsey              1           0
-## 141                           Guinea              1           0
-## 142                         Holy See              1           0
-## 143                          Liberia              1           0
-## 144                       Mauritania              1           0
-## 145                          Mayotte              1           0
-## 146                         Mongolia              1           0
-## 147                            Nepal              1           0
-## 148            Republic of the Congo              1           0
-## 149 Saint Vincent and the Grenadines              1           0
-## 150                          Somalia              1           0
-## 151                            Sudan              1           1
-## 152                         Suriname              1           0
-## 153                         Tanzania              1           0
-## 154                      The Bahamas              1           0
-## 155                             Togo              1           0
-## 156   occupied Palestinian territory              0           0
-##     TotalRecovered TotalActive FatalityRate RecoveryRate
-## 1            67910        9906         3.97        83.81
-## 2             2749       23073         7.71         9.82
-## 3             4590        9548         5.69        30.62
-## 4              530        9070         3.44         5.33
-## 5             1137        7024         0.91        13.81
-## 6               67        7188         0.23         0.92
-## 7               12        6490         2.23         0.18
-## 8               17        4530         1.84         0.37
-## 9                4        2182         0.64         0.18
-## 10              21        1474         3.61         1.35
-## 11               2        1388         1.70         0.14
-## 12               1        1329         0.23         0.08
-## 13               1        1096         0.54         0.09
-## 14               1        1052         0.47         0.09
-## 15               6        1009         0.29         0.59
-## 16               1         928         0.32         0.11
-## 17             144         654         3.27        17.45
-## 18             325         364         1.01        46.70
-## 19              42         524         0.00         7.42
-## 20               4         435         0.00         0.91
-## 21               9         402         0.96         2.17
-## 22              23         351         0.80         6.10
-## 23               8         319         1.21         2.42
-## 24               3         328         0.00         0.91
-## 25               3         295         0.00         1.01
-## 26              10         267         0.00         3.61
-## 27               4         251         0.00         1.57
-## 28               0         252         0.40         0.00
-## 29             109         134         0.00        44.86
-## 30              77         136         0.47        35.98
-## 31               1         204         0.00         0.49
-## 32               1         199         0.00         0.50
-## 33               0         180         0.00         0.00
-## 34              13         160         2.26         7.34
-## 35               0         167         1.18         0.00
-## 36               9         149         0.00         5.70
-## 37               0         155         0.00         0.00
-## 38              27         121         1.33        18.00
-## 39              35         111         0.68        23.81
-## 40               2         128         8.45         1.41
-## 41               2         134         0.00         1.47
-## 42               8         121         3.73         5.97
-## 43              26          88         8.06        20.97
-## 44               9         114         0.00         7.32
-## 45              13         104         1.68        10.92
-## 46               2         116         0.00         1.69
-## 47               4          98         6.42         3.67
-## 48               1          95         3.03         1.01
-## 49              23          75         0.00        23.47
-## 50               8          82         0.00         8.89
-## 51               0          86         0.00         0.00
-## 52               0          76         1.30         0.00
-## 53              20          46         1.49        29.85
-## 54               0          63         0.00         0.00
-## 55               0          62         0.00         0.00
-## 56              16          45         0.00        26.23
-## 57               2          55         0.00         3.51
-## 58               1          53         3.57         1.79
-## 59               0          54         1.82         0.00
-## 60               1          54         0.00         1.82
-## 61              12          38         7.41        22.22
-## 62               0          54         0.00         0.00
-## 63               0          54         0.00         0.00
-## 64               4          49         0.00         7.55
-## 65               0          52         0.00         0.00
-## 66               0          50         3.85         0.00
-## 67               0          50         1.96         0.00
-## 68               1          37         2.56         2.56
-## 69               0          35         5.41         0.00
-## 70               3          33         0.00         8.33
-## 71               0          35         0.00         0.00
-## 72               1          33         0.00         2.94
-## 73               0          33         0.00         0.00
-## 74               1          32         0.00         3.03
-## 75               2          28         0.00         6.67
-## 76               1          27         3.45         3.45
-## 77               1          27         0.00         3.57
-## 78               0          25         0.00         0.00
-## 79               2          22         0.00         8.33
-## 80               0          23         0.00         0.00
-## 81               9          13         0.00        40.91
-## 82               1          20         0.00         4.76
-## 83               0          20         0.00         0.00
-## 84               1          17         0.00         5.56
-## 85               0          18         0.00         0.00
-## 86               1          16         0.00         5.88
-## 87               1          16         0.00         5.88
-## 88               0          17         0.00         0.00
-## 89               6           8         6.67        40.00
-## 90               0          15         0.00         0.00
-## 91               0          14         6.67         0.00
-## 92               0          13         0.00         0.00
-## 93               0          11         0.00         0.00
-## 94               0          11         0.00         0.00
-## 95               0          11         0.00         0.00
-## 96               2           8         0.00        20.00
-## 97               0          10         0.00         0.00
-## 98               0           9         0.00         0.00
-## 99               2           6         0.00        25.00
-## 100              0           8         0.00         0.00
-## 101              0           8         0.00         0.00
-## 102              0           8         0.00         0.00
-## 103              1           6         0.00        14.29
-## 104              0           7         0.00         0.00
-## 105              0           6        14.29         0.00
-## 106              0           6         0.00         0.00
-## 107              0           6         0.00         0.00
-## 108              0           6         0.00         0.00
-## 109              0           6         0.00         0.00
-## 110              0           5         0.00         0.00
-## 111              0           5         0.00         0.00
-## 112              0           4         0.00         0.00
-## 113              0           4         0.00         0.00
-## 114              0           3        25.00         0.00
-## 115              0           4         0.00         0.00
-## 116              0           4         0.00         0.00
-## 117              0           3         0.00         0.00
-## 118              0           3         0.00         0.00
-## 119              0           3         0.00         0.00
-## 120              0           3         0.00         0.00
-## 121              1           1         0.00        50.00
-## 122              0           2         0.00         0.00
-## 123              0           2         0.00         0.00
-## 124              0           1        50.00         0.00
-## 125              0           2         0.00         0.00
-## 126              0           2         0.00         0.00
-## 127              0           2         0.00         0.00
-## 128              0           2         0.00         0.00
-## 129              0           2         0.00         0.00
-## 130              0           1         0.00         0.00
-## 131              0           1         0.00         0.00
-## 132              0           1         0.00         0.00
-## 133              0           1         0.00         0.00
-## 134              0           1         0.00         0.00
-## 135              0           1         0.00         0.00
-## 136              0           1         0.00         0.00
-## 137              0           1         0.00         0.00
-## 138              0           1         0.00         0.00
-## 139              0           1         0.00         0.00
-## 140              0           1         0.00         0.00
-## 141              0           1         0.00         0.00
-## 142              0           1         0.00         0.00
-## 143              0           1         0.00         0.00
-## 144              0           1         0.00         0.00
-## 145              0           1         0.00         0.00
-## 146              0           1         0.00         0.00
-## 147              1           0         0.00       100.00
-## 148              0           1         0.00         0.00
-## 149              0           1         0.00         0.00
-## 150              0           1         0.00         0.00
-## 151              0           0       100.00         0.00
-## 152              0           1         0.00         0.00
-## 153              0           1         0.00         0.00
-## 154              0           1         0.00         0.00
-## 155              0           1         0.00         0.00
-## 156              0           0          NaN          NaN</code></pre>
+<div id="overall-confirmed-cases-and-deaths-countrywise-with-atleast-100-confirmed-cases" class="section level3">
+<h3>Overall Confirmed Cases and Deaths Countrywise (With Atleast 100 confirmed cases)</h3>
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:right;">
+Country.Region
+</th>
+<th style="text-align:right;">
+TotalConfirmed
+</th>
+<th style="text-align:right;">
+TotalDeaths
+</th>
+<th style="text-align:right;">
+TotalRecovered
+</th>
+<th style="text-align:right;">
+TotalActive
+</th>
+<th style="text-align:right;">
+FatalityRate
+</th>
+<th style="text-align:right;">
+RecoveryRate
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+China
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 100.00%">81033</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 100.00%">3217</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 100.00%">67910</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 42.93%">9906</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff8787">3.97</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #90ee90">83.81</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Italy
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 34.53%">27980</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 67.08%">2158</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 4.05%">2749</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 100.00%">23073</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff1616">7.71</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f1fdf1">9.82</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Iran
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 18.50%">14991</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 26.52%">853</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 6.76%">4590</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 41.38%">9548</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff5353">5.69</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #d6f8d6">30.62</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Spain
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 12.27%">9942</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 10.63%">342</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.78%">530</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 39.31%">9070</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff9797">3.44</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f7fdf7">5.33</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Korea, South
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 10.16%">8236</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.33%">75</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 1.67%">1137</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 30.44%">7024</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffe3e3">0.91</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ecfcec">13.81</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Germany
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 8.97%">7272</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.53%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.10%">67</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 31.15%">7188</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fff8f8">0.23</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">0.92</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+France
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 8.21%">6650</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 4.60%">148</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.02%">12</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 28.13%">6490</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffbbbb">2.23</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.18</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+US
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 5.72%">4632</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.64%">85</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.03%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 19.63%">4530</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffc7c7">1.84</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.37</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Switzerland
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.71%">2200</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.44%">14</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">4</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 9.46%">2182</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffebeb">0.64</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.18</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+United Kingdom
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.91%">1551</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 1.74%">56</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.03%">21</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 6.39%">1474</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff9292">3.61</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">1.35</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Netherlands
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.74%">1414</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.75%">24</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 6.02%">1388</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffcbcb">1.70</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.14</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Norway
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.65%">1333</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.09%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 5.76%">1329</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fff8f8">0.23</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.08</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Sweden
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.36%">1103</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.19%">6</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.75%">1096</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffeeee">0.54</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.09</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Belgium
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.31%">1058</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.16%">5</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.56%">1052</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fff0f0">0.47</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.09</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Austria
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.26%">1018</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.09%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">6</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.37%">1009</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fff6f6">0.29</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.59</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Denmark
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.15%">932</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.09%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.02%">928</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fff5f5">0.32</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.11</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Japan
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.02%">825</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.84%">27</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.21%">144</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.83%">654</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff9c9c">3.27</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #e7fbe7">17.45</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Cruise Ship
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.86%">696</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.22%">7</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.48%">325</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.58%">364</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffe0e0">1.01</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #c1f5c1">46.70</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Malaysia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.70%">566</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.06%">42</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.27%">524</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f5fdf5">7.42</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Qatar
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.54%">439</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">4</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.89%">435</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">0.91</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Canada
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.51%">415</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.12%">4</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">9</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.74%">402</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffe2e2">0.96</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fcfefc">2.17</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Australia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.47%">377</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.09%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.03%">23</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.52%">351</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffe6e6">0.80</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f6fdf6">6.10</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Greece
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.41%">331</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.12%">4</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">8</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.38%">319</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffdada">1.21</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fbfefb">2.42</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Portugal
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.41%">331</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.42%">328</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">0.91</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Czechia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.37%">298</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.28%">295</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">1.01</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Finland
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.34%">277</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">10</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.16%">267</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fafefa">3.61</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Israel
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.31%">255</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">4</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.09%">251</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fcfefc">1.57</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Slovenia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.31%">253</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.03%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.09%">252</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fff2f2">0.40</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Singapore
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.30%">243</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.16%">109</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.58%">134</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #c3f5c3">44.86</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Bahrain
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.26%">214</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.03%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.11%">77</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.59%">136</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fff0f0">0.47</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #cff7cf">35.98</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Estonia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.25%">205</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.88%">204</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.49</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Brazil
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.25%">200</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.86%">199</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fefefe">0.50</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Iceland
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.22%">180</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.78%">180</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Poland
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.22%">177</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.12%">4</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.02%">13</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.69%">160</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffbaba">2.26</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f5fdf5">7.34</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Ireland
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.21%">169</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.06%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.72%">167</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffdbdb">1.18</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Romania
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.19%">158</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">9</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.65%">149</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f7fdf7">5.70</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Chile
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.19%">155</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.67%">155</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Egypt
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.19%">150</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.06%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.04%">27</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.52%">121</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffd6d6">1.33</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #e7fbe7">18.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Thailand
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.18%">147</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.03%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.05%">35</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.48%">111</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffeaea">0.68</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #dffadf">23.81</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Philippines
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.18%">142</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.37%">12</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.55%">128</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0000">8.45</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">1.41</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Pakistan
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.17%">136</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.58%">134</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">1.47</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Indonesia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.17%">134</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.16%">5</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">8</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.52%">121</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff8e8e">3.73</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f7fdf7">5.97</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Iraq
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.15%">124</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.31%">10</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.04%">26</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.38%">88</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0b0b">8.06</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #e3fae3">20.97</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Kuwait
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.15%">123</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">9</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.49%">114</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f5fdf5">7.32</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+India
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.15%">119</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.06%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.02%">13</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.45%">104</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffcccc">1.68</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f0fcf0">10.92</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Saudi Arabia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.15%">118</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.50%">116</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fcfefc">1.69</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+San Marino
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.13%">109</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.22%">7</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.01%">4</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.42%">98</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff3d3d">6.42</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fafefa">3.67</span>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 <div id="usa-state-wise-confirmed-cases-and-deaths" class="section level3">
 <h3>USA State Wise Confirmed Cases and Deaths</h3>
-<pre><code>##          Province.State Confirmed Deaths Recovered FatalityRate
-## 1              New York       967     10         0         1.03
-## 2            Washington       904     48         1         5.31
-## 3            California       557      7         6         1.26
-## 4         Massachusetts       197      0         1         0.00
-## 5            New Jersey       178      2         1         1.12
-## 6              Colorado       160      1         0         0.62
-## 7               Florida       155      5         0         3.23
-## 8             Louisiana       136      3         0         2.21
-## 9               Georgia       121      1         0         0.83
-## 10             Illinois       105      0         2         0.00
-## 11                Texas        85      0         0         0.00
-## 12         Pennsylvania        77      0         0         0.00
-## 13            Minnesota        54      0         0         0.00
-## 14             Michigan        53      0         0         0.00
-## 15            Tennessee        52      0         0         0.00
-## 16                 Ohio        50      0         0         0.00
-## 17             Virginia        49      1         0         2.04
-## 18     Diamond Princess        47      0         0         0.00
-## 19            Wisconsin        47      0         1         0.00
-## 20               Nevada        45      1         0         2.22
-## 21             Maryland        41      0         3         0.00
-## 22               Oregon        39      1         0         2.56
-## 23                 Utah        39      0         0         0.00
-## 24       North Carolina        38      0         0         0.00
-## 25       South Carolina        33      1         0         3.03
-## 26          Connecticut        30      0         0         0.00
-## 27              Alabama        29      0         0         0.00
-## 28              Indiana        25      1         0         4.00
-## 29                 Iowa        23      0         0         0.00
-## 30             Arkansas        22      0         0         0.00
-## 31 District of Columbia        22      0         0         0.00
-## 32             Kentucky        21      1         1         4.76
-## 33         Rhode Island        21      0         0         0.00
-## 34       Grand Princess        20      0         0         0.00
-## 35              Arizona        18      0         1         0.00
-## 36             Nebraska        18      0         0         0.00
-## 37                Maine        17      0         0         0.00
-## 38        New Hampshire        17      0         0         0.00
-## 39           New Mexico        17      0         0         0.00
-## 40          Mississippi        13      0         0         0.00
-## 41              Vermont        12      0         0         0.00
-## 42               Kansas        11      1         0         9.09
-## 43             Oklahoma        10      0         0         0.00
-## 44         South Dakota        10      1         0        10.00
-## 45             Delaware         8      0         0         0.00
-## 46               Hawaii         7      0         0         0.00
-## 47              Montana         7      0         0         0.00
-## 48             Missouri         6      0         0         0.00
-## 49                Idaho         5      0         0         0.00
-## 50          Puerto Rico         5      0         0         0.00
-## 51                 Guam         3      0         0         0.00
-## 52              Wyoming         3      0         0         0.00
-## 53               Alaska         1      0         0         0.00
-## 54         North Dakota         1      0         0         0.00
-## 55       Virgin Islands         1      0         0         0.00
-## 56        West Virginia         0      0         0          NaN</code></pre>
+<table class="table table-condensed">
+<thead>
+<tr>
+<th style="text-align:right;">
+Province.State
+</th>
+<th style="text-align:right;">
+Confirmed
+</th>
+<th style="text-align:right;">
+Deaths
+</th>
+<th style="text-align:right;">
+Recovered
+</th>
+<th style="text-align:right;">
+Active
+</th>
+<th style="text-align:right;">
+FatalityRate
+</th>
+<th style="text-align:right;">
+RecoveryRate
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+New York
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 100.00%">967</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 20.83%">10</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 100.00%">957</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffe4e4">1.03</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Washington
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 93.49%">904</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 100.00%">48</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 16.67%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 89.34%">855</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff7777">5.31</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #fdfefd">0.11</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+California
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 57.60%">557</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 14.58%">7</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 100.00%">6</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 56.84%">544</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffdede">1.26</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #eefcee">1.08</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Massachusetts
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 20.37%">197</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 16.67%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 20.48%">196</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f7fdf7">0.51</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+New Jersey
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 18.41%">178</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 4.17%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 16.67%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 18.29%">175</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffe2e2">1.12</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #f6fdf6">0.56</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Colorado
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 16.55%">160</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 16.61%">159</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffefef">0.62</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Florida
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 16.03%">155</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 10.42%">5</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 15.67%">150</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffacac">3.23</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Louisiana
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 14.06%">136</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 6.25%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 13.90%">133</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffc6c6">2.21</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Georgia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 12.51%">121</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 12.54%">120</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffe9e9">0.83</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Illinois
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 10.86%">105</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 33.33%">2</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 10.76%">103</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #e2fae2">1.90</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Texas
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 8.79%">85</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 8.88%">85</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Pennsylvania
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 7.96%">77</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 8.05%">77</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Minnesota
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 5.58%">54</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 5.64%">54</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Michigan
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 5.48%">53</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 5.54%">53</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Tennessee
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 5.38%">52</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 5.43%">52</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Ohio
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 5.17%">50</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 5.22%">50</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Virginia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 5.07%">49</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 5.02%">48</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffcaca">2.04</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Diamond Princess
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 4.86%">47</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.91%">47</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Wisconsin
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 4.86%">47</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 16.67%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.81%">46</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #defade">2.13</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Nevada
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 4.65%">45</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.60%">44</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffc6c6">2.22</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Maryland
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 4.24%">41</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 50.00%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 3.97%">38</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #90ee90">7.32</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Oregon
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 4.03%">39</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 3.97%">38</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffbdbd">2.56</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Utah
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 4.03%">39</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 4.08%">39</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+North Carolina
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 3.93%">38</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 3.97%">38</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+South Carolina
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 3.41%">33</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 3.34%">32</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffb1b1">3.03</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Connecticut
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 3.10%">30</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 3.13%">30</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Alabama
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 3.00%">29</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 3.03%">29</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Indiana
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.59%">25</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.51%">24</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff9999">4.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Iowa
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.38%">23</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.40%">23</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Arkansas
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.28%">22</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.30%">22</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+District of Columbia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.28%">22</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.30%">22</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Kentucky
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.17%">21</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 16.67%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.99%">19</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff8585">4.76</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #b6f3b6">4.76</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Rhode Island
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.17%">21</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.19%">21</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Grand Princess
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 2.07%">20</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 2.09%">20</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Arizona
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.86%">18</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 16.67%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.78%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #aaf2aa">5.56</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Nebraska
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.86%">18</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.88%">18</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Maine
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.76%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.78%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+New Hampshire
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.76%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.78%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+New Mexico
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.76%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.78%">17</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Mississippi
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.34%">13</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.36%">13</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Vermont
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.24%">12</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.25%">12</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Kansas
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.14%">11</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.04%">10</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff1717">9.09</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Oklahoma
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.03%">10</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 1.04%">10</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+South Dakota
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 1.03%">10</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 2.08%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.94%">9</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ff0000">10.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Delaware
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.83%">8</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.84%">8</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Hawaii
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.72%">7</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.73%">7</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Montana
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.72%">7</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.73%">7</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Missouri
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.62%">6</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.63%">6</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Idaho
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.52%">5</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.52%">5</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Puerto Rico
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.52%">5</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.52%">5</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Guam
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.31%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.31%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Wyoming
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.31%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.31%">3</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Alaska
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.10%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.10%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+North Dakota
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.10%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.10%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+Virgin Islands
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.10%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.10%">1</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px; background-color: #ffffff">0.00</span>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+West Virginia
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: orange; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: pink; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightgreen; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: inline-block; direction: rtl; border-radius: 4px; padding-right: 2px; background-color: lightblue; width: 0.00%">0</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px">NaN</span>
+</td>
+<td style="text-align:right;">
+<span style="display: block; padding: 0 4px; border-radius: 4px">NaN</span>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </div>
 
