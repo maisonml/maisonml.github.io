@@ -48,7 +48,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Situation Reports
-    url:               /hydejack/
+    url:               /hydejack/    
+  - title:             About COVID-19
+    url:               /about covid-19/
   - title:             About
     url:               /about/
 
