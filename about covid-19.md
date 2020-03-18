@@ -10,7 +10,6 @@ image: /assets/img/blog/hydejack-8.png
 ### What is COVID-19?
 
 **Coronavirus disease (COVID-19)** is an infectious disease caused by a virus which goes by the name: severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in 2019 in Wuhan, China, and has since spread globally, resulting in the 2019–20 coronavirus pandemic. 
-Common symptoms include fever, cough and shortness of breath. Muscle pain, sputum production and sore throat are less common. While the majority of cases result in mild symptoms, some progress to severe pneumonia and multi-organ failure.
 
 ### How does it spread?
 
@@ -30,7 +29,7 @@ In some, the disease may progress to pneumonia, multi-organ failure, and death.
 
 Mild cases typically recover within two weeks, while those with severe or critical disease may take three to six weeks to recover. 
 
-### How to prevent yourself, your family and your community from the virus?
+### How to protect yourself, your family and your community from the virus?
 
 Because a vaccine against SARS-CoV-2 is not expected to become available until 2021 at the earliest, a key part of managing the COVID-19 pandemic is trying to decrease the epidemic peak, known as flattening the epidemic curve through various measures seeking to reduce the rate of new infections. 
 Slowing the infection rate helps decrease the risk of health services being overwhelmed, allowing for better treatment of current cases, and provides more time for a vaccine and treatment to be developed.
