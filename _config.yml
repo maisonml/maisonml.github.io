@@ -48,11 +48,24 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Situation Reports
-    url:               /hydejack/    
+    url:               /hydejack/   
+    description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+    image:             /assets/icons/MaisonMLLogo.png
+    
+  - title:             Situation Reports
+    url:               /posts/   
+    description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+    image:             /assets/icons/MaisonMLLogo.png
+    
   - title:             About COVID-19
     url:               /about covid-19/
+    description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+    image:             /assets/icons/MaisonMLLogo.png
+    
   - title:             About
     url:               /about/
+    description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+    image:             /assets/icons/MaisonMLLogo.png
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
