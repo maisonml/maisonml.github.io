@@ -4,12 +4,12 @@ image: /assets/img/blog/hydejack-8.png
 
 # About
 
-"Maison ML: Data, Reports and Analyses of the COVID-19 Pandemic".
+"Maison ML: Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic".
 {:.lead}
 
 ### About Maison ML
 
-**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 8 PM EST. If you would like additional metrics added to this report or would like further features added to this product, please send out a mail to dhivyaravindran@gmail.com. The following are the product enhancements upcoming in the pipeline:
+**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 8 PM EST. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. The following are the product enhancements upcoming in the pipeline:
 
 > Dedicated repository of helpline numbers for USA, Canada, India, UK and Italy.
 
