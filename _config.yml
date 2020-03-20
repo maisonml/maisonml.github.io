@@ -19,16 +19,16 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 COVID-19 Analytics
+title:                 Maison ML
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Data, Reports and Analyses of the COVID-19 Pandemic"
+  "Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic"
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Data, Reports and Analyses of the COVID-19 Pandemic"
+  "Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic"
 
 # A list of keywords for your blog
 keywords:              [COVID-19]
