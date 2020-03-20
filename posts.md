@@ -1,8 +1,7 @@
 ---
 layout: list
-title: Posts
-description: >
-  This is the `list` layout for showing blog posts, which shows just the title and groups them by year of publication.
-  Check out the `blog` layout for comparison.
-  Open `posts.md` to edit this text.
+title: Maison ML
+image: /assets/icons/MaisonMLLogo.png
+description: **Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic**. In **Maison ML**, our focus is to provide **data intensive daily reports** on the onset, progression and updates of the **2019- 2020 COVID-19 pandemic**. The reports are updated everyday at 8 PM EST. If you feel this data product could be useful to people you know, please feel free to share. If you would like additional metrics added to this report or would like further features added to this product, please send out a mail to dhivyaravindran@gmail.com. Without further adieu, let’s jump into the reports posted below:
+
 ---
