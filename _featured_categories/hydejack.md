@@ -5,10 +5,9 @@ slug: Machine Learning
 menu: true
 order: 1
 description: >
-  In **Season 1 of Maison ML**, our focus is on **Supervised Machine Learning Algorithms**. We have 9 chapters in season 1 and under each chapter, we will learn about the most frequently used supervised ML aglorithms: XGBoost, Logistic Regression, Support Vector Machines, k- Nearest Neighbors, Random Forests, Naive Bayes, Decision Trees, Linear Regression and Ensembling. This season will cover both **Regression and Classification** algorithms. The algorithms are explained with the underlying math, code to implement them and an practical example using publicly available data.
-  >
-  Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by
-  [@qwtel](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
-  Open `_featured_tags/hydejack.md` to edit this text.
+  In **Maison ML**, our focus is to provide data intensive daily reports on the onset, progression and updates of **the 2019- 2020 COVID-19 pandemic**. The reports are updated everyday at 8 PM EST. If you feel this data product could be useful to people you know, please feel free to share. If you would like additional metrics added to this report or would like further features added to this product, please send out a mail to dhivyaravindran@gmail.com. The following are the product features currently under build:
+  * A dedicated repository of helpline numbers for USA, Canada, India and Italy.
+  
+  Without further adieu, let's jump into the reports posted below:
+  
 ---
