@@ -1,5 +1,7 @@
 ---
-image: /assets/img/blog/hydejack-8.png
+title: Maison ML
+description: Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+image: /assets/icons/MaisonMLLogo.png
 ---
 
 # About COVID-19
