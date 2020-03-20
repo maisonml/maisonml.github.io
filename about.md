@@ -4,18 +4,13 @@ description: Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 P
 image: /assets/icons/MaisonMLLogo.png
 ---
 
-# About
-
-"Maison ML: Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic".
-{:.lead}
-
-### About Maison ML
+## About Maison ML
 
 **Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 8 PM EST. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. The following are the product enhancements upcoming in the pipeline:
 
 > Dedicated repository of helpline numbers for USA, Canada, India, UK and Italy.
 
-### About the Author of Maison ML
+## About the Author of Maison ML
 
 **Dhivya Ravindran** was formerly working as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She also worked as a Chief Data Scientist in **Grandatos**, a pioneering Analytics venture and also as a Senior Tech Engineer in **IBM** Global Business Services.
 
