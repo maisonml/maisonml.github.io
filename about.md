@@ -10,6 +10,12 @@ image: /assets/icons/MaisonMLLogo.png
 
 > Dedicated repository of helpline numbers for USA, Canada, India, UK and Italy.
 
+<br>
+
+**Support Maison ML on Patreon:**
+
+<a href="https://www.patreon.com/maisonml" rel="Become a Patron">![Patreon](/assets/img/patreon1.png)</a>
+
 ## About the Author of Maison ML
 
 **Dhivya Ravindran** was formerly working as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She also worked as a Chief Data Scientist in **Grandatos**, a pioneering Analytics venture and also as a Senior Tech Engineer in **IBM** Global Business Services.
