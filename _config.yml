@@ -52,6 +52,11 @@ menu:
     description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
     image:             /assets/icons/MaisonMLLogo.png
     
+   - title:             Situation Reports
+    url:               /posts/   
+    description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+    image:             /assets/icons/MaisonMLLogo.png
+    
   - title:             About COVID-19
     url:               /about covid-19/
     description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
