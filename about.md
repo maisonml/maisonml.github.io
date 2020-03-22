@@ -10,7 +10,11 @@ image: /assets/icons/MaisonMLLogo.png
 
 > Dedicated repository of helpline numbers for USA, Canada, India, UK and Italy.
 
-<a href="https://www.patreon.com/maisonml" rel="Become a Patron">![Patreon](/assets/img/patreon.png)</a>
+<br>
+
+**Support Maison ML on Patreon:**
+
+<a href="https://www.patreon.com/maisonml" rel="Become a Patron">![Patreon](/assets/img/patreon1.png)</a>
 
 ## About the Author of Maison ML
 
