@@ -14,7 +14,7 @@ image: /assets/icons/MaisonMLLogo.png
 
 **Support Maison ML on Patreon:**
 
-<a href="https://www.patreon.com/maisonml" rel="Become a Patron">![Patreon](/assets/img/patreon1.png)</a>
+<a href="https://www.patreon.com/maisonml" rel="Become a Patron">![Patreon Link](/assets/img/patreon1.png)</a>
 
 ## About the Author of Maison ML
 
