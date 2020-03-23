@@ -6,9 +6,19 @@ image: /assets/icons/MaisonMLLogo.png
 
 ## About Maison ML
 
-**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 9 PM EST. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. The following are the product enhancements upcoming in the pipeline:
+**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 9 PM EST. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
+<br>
+
+The following are the product enhancements upcoming in the pipeline:
 
 > Dedicated repository of helpline numbers for USA, Canada, India, UK and Italy.
+
+The following were the changes made to the reports and/or product:
+
+> Reports are printed at 9 PM EST from 03-21-2020 due to the source data cron which only runs at 8 PM EST everyday.
+<br>
+
+> In Depth USA Stats (State Wise Figures) has the following additional metrics added: ConfirmedCasesPerMillPopl, DeathsPerMillPopl and Infection Odds; these will reflect from the reports printed on or after 03-23-2020.
 
 <br>
 
