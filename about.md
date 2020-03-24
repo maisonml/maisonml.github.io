@@ -22,6 +22,8 @@ The following were the changes made to the reports and/or product:
 
 <br>
 
+> Recovered cases and thereby Active cases (=Confirmed-Deaths-Recovered) are not printed on reports on or after 03-23-2020. This is because countries widely under-report number of recovered cases and so tracking it has been stopped.
+
 **Support Maison ML on Patreon:**
 
 <a href="https://www.patreon.com/maisonml" rel="Become a Patron">![Patreon Link](/assets/img/patreon1.png)</a>
