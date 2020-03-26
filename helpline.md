@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Helpline and Resources
 description: COVID-19- Helpline Numbers, Local Resources and Handouts
-image: /assets/covid.tif
+image: /assets/img/covid.png
 ---
 
 ## Choose your Country
