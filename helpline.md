@@ -52,7 +52,11 @@
 7. Lakshadweep 104
 8. Puducherry 104
 
-### Download Goverment Awareness Material:
+For more information, click [here](https://www.mohfw.gov.in/).
+
+### Download Goverment Handouts:
+
+
 
 <br>
 
@@ -73,3 +77,5 @@
 13. [Yukon Territory](www.yukon.ca/covid-19) 811
 
 For more information call 1-833-784-4397 or visit [here](canada.ca/coronavirus).
+
+### Download Goverment Handouts:
