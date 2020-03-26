@@ -10,10 +10,10 @@ image: /assets/covid.tif
 
 {:toc}
 
-## USA 
+# USA 
 **(Most Affected as on 03/25- Non Exhaustive)**
 
-Call [CDC](https://www.cdc.gov/) at: 800-232-4636
+Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 
 1. [New York](https://coronavirus.health.ny.gov/home) 1-888-364-3065
     - [New York City](https://www1.nyc.gov/site/doh/covid/covid-19-main.page) 311
@@ -46,8 +46,7 @@ Call [CDC](https://www.cdc.gov/) at: 800-232-4636
 27. [Maine](https://www.maine.gov/dhhs/coronavirus-resources.shtml) 211 ; **Text** your ZIP CODE to 898-211 ; **Email** info@211maine.org
 28. [Rhode Island](https://health.ri.gov/covid/) 401-462-2020 ; **Email** dlt.covid19@dlt.ri.gov
 29. [New Hampshire](https://www.nh.gov/covid19/) 211 or 1-866-444-4211 ; TTY: 603-634-3388
-30. [Vermont](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) 211 or 1-866-652-4636     
-
+30. [Vermont](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) 211 or 1-866-652-4636  
 
 ### Download Government Handouts:
 
@@ -58,7 +57,7 @@ Call [CDC](https://www.cdc.gov/) at: 800-232-4636
 * [15 Days to Slow the Spread](https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf)
 * [Keep Calm and Wash your Hands](https://www.cdc.gov/handwashing/pdf/keep-calm-wash-your-hands_8.5x11.pdf)
 
-## India
+# India
 
 **Helpline Number Toll Free** : 1075 and +91-11-23978046
 
@@ -119,10 +118,7 @@ For more information, click [here](https://www.mohfw.gov.in/).
 * [Kids Comic Book COVID-19 Awareness :: Part 1](https://www.mohfw.gov.in/pdf/Corona_comic_PGI.pdf)
 * [Kids Comic Book COVID-19 Awareness :: Part 2](https://www.mohfw.gov.in/pdf/CoronaComic2PGIPU22Mar20.pdf)
 
-
-<br>
-
-## Canada
+# Canada
 
 1. [British Columbia](www.bccdc.ca/covid19) 811
 2. [Alberta](www.myhealth.alberta.ca) 811
@@ -146,4 +142,4 @@ For more information call 1-833-784-4397 or visit [here](canada.ca/coronavirus).
 * [Returning to Canada from Abroad](https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/diseases-conditions/2019-novel-coronavirus-information-sheet/coronavirus-handout-en.pdf)
 * [Reduce the Spread](https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/diseases-conditions/coronavirus/covid-19-handwashing/covid-19-handwashing-eng.pdf)
 
-This list is not exhaustive, if you would like to volunteer to add to this data, please reach out to the [author](https://maisonml.github.io/about/)
+This list is not exhaustive, if you would like to volunteer to add to this data, please reach out to the [author](https://maisonml.github.io/about/).
