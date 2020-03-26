@@ -44,7 +44,7 @@ Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 25. [Minnesota](https://www.health.state.mn.us/diseases/coronavirus/index.html) 651-201-3920 or 1-800-657-3903 ; **Schools and Child Care** 651-297-1304 or 1-800-657-3504
 26. [District of Columbia](https://coronavirus.dc.gov/) 844-493-2652
 27. [Maine](https://www.maine.gov/dhhs/coronavirus-resources.shtml) 211 ; **Text** your ZIP CODE to 898-211 ; **Email** info@211maine.org
-28. [Rhode Island](https://health.ri.gov/covid/) 401-462-2020 ; **Email** dlt.covid19@dlt.ri.gov
+28. [Rhode Island](https://health.ri.gov/covid/) 401-462-2020 or 401-222-8022 ; **Email** dlt.covid19@dlt.ri.gov or RIDOH.COVID19Questions@health.ri.gov
 29. [New Hampshire](https://www.nh.gov/covid19/) 211 or 1-866-444-4211 ; TTY: 603-634-3388
 30. [Vermont](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus) 211 or 1-866-652-4636  
 
