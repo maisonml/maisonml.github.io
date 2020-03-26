@@ -15,13 +15,13 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
+> In Depth Italy Stats (Region Wise Figures) are printed on and after 03-25-2020.
+<br>
+
 > Reports are printed at 9 PM EST from 03-21-2020 due to the source data cron which only runs at 8 PM EST everyday.
 <br>
 
-> In Depth USA Stats (State Wise Figures) has the following additional metrics added: ConfirmedCasesPerMillPopl, DeathsPerMillPopl and Infection Odds; these will reflect from the reports printed on or after 03-23-2020.
-<br>
-
-> Recovered cases and thereby Active cases (=Confirmed-Deaths-Recovered) are not printed on reports on or after 03-23-2020. This is because countries widely under-report number of recovered cases and so tracking it has been stopped.
+> Recovered cases and thereby Active cases (=Confirmed-Deaths-Recovered) are not printed on reports except for Italy. This is because countries widely under-report number of recovered cases and so tracking it has been stopped.
 
 **Support Maison ML on Patreon:**
 
