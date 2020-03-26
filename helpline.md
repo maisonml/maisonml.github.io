@@ -16,6 +16,8 @@ image: /assets/covid.tif
 
 Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 
+### States
+
 1. [New York](https://coronavirus.health.ny.gov/home){:target="_blank"} 1-888-364-3065
     - [New York City](https://www1.nyc.gov/site/doh/covid/covid-19-main.page){:target="_blank"} 311
 2. [New Jersey](https://www.nj.gov/health/){:target="_blank"} 211 or 1-800-962-1253 ; **Text** NJCOVID to 898-211
@@ -120,6 +122,8 @@ For more information, click [here](https://www.mohfw.gov.in/){:target="_blank"}.
 * [Kids Comic Book COVID-19 Awareness :: Part 2](https://www.mohfw.gov.in/pdf/CoronaComic2PGIPU22Mar20.pdf){:target="_blank"}
 
 ## Canada
+
+### Provinces
 
 1. [British Columbia](www.bccdc.ca/covid19){:target="_blank"} 811
 2. [Alberta](www.myhealth.alberta.ca){:target="_blank"} 811
