@@ -5,6 +5,7 @@ image: /assets/covid.tif
 ---
 
 ## Choose your Country
+{:.no_toc}
 * USA
 * India
 * Canada
@@ -48,7 +49,7 @@ Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 29. [New Hampshire](https://www.nh.gov/covid19/){:target="_blank"} 211 or 1-866-444-4211 ; TTY: 603-634-3388
 30. [Vermont](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus){:target="_blank"} 211 or 1-866-652-4636  
 
-### Download Government Handouts:
+### Download Government Handouts
 
 * [EPA Approved List of Disinfectants for COVID-19](https://www.epa.gov/sites/production/files/2020-03/documents/sars-cov-2-list_03-03-2020.pdf){:target="_blank"}
 * [What to do if you're sick?](https://www.cdc.gov/coronavirus/2019-ncov/downloads/sick-with-2019-nCoV-fact-sheet.pdf){:target="_blank"}
@@ -63,7 +64,7 @@ Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 
 **Helpline Email ID** : ncov2019@gov.in or ncov2019@gmail.com
 
-### States:
+### States
 
 1. Andhra Pradesh 0866-2410978
 2. Arunachal Pradesh 9436055743
@@ -94,7 +95,7 @@ Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 27. Uttar Pradesh 18001805145
 28. West Bengal 1800313444222, 03323412600
 
-### Union Territories:
+### Union Territories
 
 1. Andaman and Nicobar Islands 03192-232102
 2. Chandigarh 9779558282
@@ -107,7 +108,7 @@ Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 
 For more information, click [here](https://www.mohfw.gov.in/){:target="_blank"}.
 
-### Download Goverment Handouts:
+### Download Goverment Handouts
 
 * [Role of Frontline Workers](https://www.mohfw.gov.in/pdf/PreventionandManagementofCOVID19FLWEnglish.pdf){:target="_blank"}
 * [Protective Measures](https://www.mohfw.gov.in/pdf/ProtectivemeasuresEng.pdf){:target="_blank"}
@@ -136,7 +137,7 @@ For more information, click [here](https://www.mohfw.gov.in/){:target="_blank"}.
 
 For more information call 1-833-784-4397 or visit [here](canada.ca/coronavirus){:target="_blank"}.
 
-### Download Goverment Handouts:
+### Download Goverment Handouts
 
 * [Know the Difference: Self Monitoring, Self Isolation and Isolation](https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/diseases-conditions/know-difference-self-monitoring-isolation-covid-19/know-difference-self-monitoring-isolation-covid-19-eng.pdf){:target="_blank"}
 * [Returning to Canada from Abroad](https://www.canada.ca/content/dam/phac-aspc/documents/services/publications/diseases-conditions/2019-novel-coronavirus-information-sheet/coronavirus-handout-en.pdf){:target="_blank"}
