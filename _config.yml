@@ -60,7 +60,7 @@ menu:
   - title:             Helpline and Resources
     url:               /helpline/   
     description:       COVID-19- Helpline Numbers, Local Resources and Handouts
-    image:             /assets/covid.tif
+    image:             /assets/img/covid.png
     
   - title:             About
     url:               /about/
