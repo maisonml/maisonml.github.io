@@ -57,6 +57,11 @@ menu:
     description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
     image:             /assets/icons/MaisonMLLogo.png
     
+  - title:             Helpline and Resources
+    url:               /helpline/   
+    description:       COVID-19- Helpline Numbers, Local Resources and Handouts
+    image:             /assets/covid.tif
+    
   - title:             About
     url:               /about/
     description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
