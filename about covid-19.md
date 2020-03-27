@@ -45,9 +45,9 @@ Preventive measures to reduce the chances of infection in locations with an outb
 * Avoid touching the eyes, nose, or mouth with unwashed hands.
 
 **Social distancing** strategies aim to reduce contact of infected persons with large groups by closing schools and workplaces, restricting travel, and canceling mass gatherings.
-According to the [WHO], the use of masks is only recommended if a person is coughing or sneezing or when one is taking care of someone with a suspected infection.
+According to the [WHO](https://www.who.int/){:target="_blank"}, the use of masks is only recommended if a person is coughing or sneezing or when one is taking care of someone with a suspected infection.
 
-To prevent transmission of the virus, the Centers for Disease Control and Prevention [CDC] in the United States recommends that infected individuals:
+To prevent transmission of the virus, the Centers for Disease Control and Prevention [CDC](https://www.cdc.gov/){:target="_blank"} in the United States recommends that infected individuals:
 
 * Stay home except to get medical care, 
 * Call ahead before visiting a healthcare provider, 
@@ -59,10 +59,8 @@ To prevent transmission of the virus, the Centers for Disease Control and Preven
 CDC also recommends that individuals **wash hands often with soap and water for at least 20 seconds**, especially after going to the toilet or when hands are visibly dirty, before eating and after blowing one's nose, coughing, or sneezing. 
 It further recommended using an **alcohol-based hand sanitizer with at least 65% alcohol**, but only when soap and water are not readily available.
 
-The World Health Organization [WHO] advises individuals to avoid touching the eyes, nose, or mouth with unwashed hands. Spitting in public places also should be avoided.
+The World Health Organization [WHO](https://www.who.int/){:target="_blank"} advises individuals to avoid touching the eyes, nose, or mouth with unwashed hands. Spitting in public places also should be avoided.
 
-[CDC]: https://www.cdc.gov/
-[WHO]: https://www.who.int/
 
 
 
