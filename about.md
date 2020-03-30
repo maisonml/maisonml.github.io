@@ -15,11 +15,11 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
+> A new metric- Measuring Outbreak Velocity: 5 Day Lagging Average Doubling Time (Top 20 Countries with the Highest Cases) is printed on reports on and after 03-28-2020.
+
 > In Depth Italy Stats (Region Wise Figures) are printed on and after 03-25-2020.
-<br>
 
 > Reports are printed at 9 PM EST from 03-21-2020 due to the source data cron which only runs at 8 PM EST everyday.
-<br>
 
 > Recovered cases and thereby Active cases (=Confirmed-Deaths-Recovered) are not printed on reports except for Italy. This is because countries widely under-report number of recovered cases and so tracking it has been stopped.
 
