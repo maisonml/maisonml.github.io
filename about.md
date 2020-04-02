@@ -11,9 +11,11 @@ image: /assets/icons/MaisonMLLogo.png
 
 The following are the product enhancements upcoming in the pipeline:
 
-> Dedicated repository of helpline numbers for USA, Canada, India, UK and Italy.
+> TBD
 
 The following were the changes made to the reports and/or product:
+
+> The report for 01-04-2020 is still pending as on 9.25 PM EST due to data not yet being updated yet for the day in the data sources.
 
 > A new metric- Measuring Outbreak Velocity: 5 Day Lagging Average Doubling Time (Top 20 Countries with the Highest Cases) is printed on reports on and after 03-28-2020.
 
