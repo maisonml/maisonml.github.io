@@ -125,21 +125,21 @@ For more information, click [here](https://www.mohfw.gov.in/){:target="_blank"}.
 
 ### Provinces
 
-1. [British Columbia](www.bccdc.ca/covid19){:target="_blank"} 811
-2. [Alberta](www.myhealth.alberta.ca){:target="_blank"} 811
-3. [Saskatchewan](www.saskhealthauthority.ca){:target="_blank"} 811
-4. [Manitoba](www.manitoba.ca/covid19){:target="_blank"} 1-888-315-9257
-5. [Ontario](www.publichealthontario.ca){:target="_blank"} 1-866-797-0000
-6. [Quebec](www.quebec.ca/en/coronavirus){:target="_blank"} 1-877-644-4545
-7. [New Brunswick](www.gnb.ca/publichealth){:target="_blank"} 811
-8. [Nova Scotia](www.nshealth.ca/public-health){:target="_blank"} 811
-9. [Prince Edward Island](www.princeedwardisland.ca/covid19){:target="_blank"} 811
-10. [New Foundland and Labrador](www.gov.nl.ca/covid-19){:target="_blank"} 811 or 1-888-709-2929
-11. [Nunavut](www.gov.nu.ca/health){:target="_blank"} 867-975-5772
-12. [Northwest Territories](www.hss.gov.nt.ca){:target="_blank"} 911
-13. [Yukon Territory](www.yukon.ca/covid-19){:target="_blank"} 811
+1. [British Columbia](https://www.bccdc.ca/covid19){:target="_blank"} 811
+2. [Alberta](https://www.myhealth.alberta.ca){:target="_blank"} 811
+3. [Saskatchewan](https://www.saskhealthauthority.ca){:target="_blank"} 811
+4. [Manitoba](https://www.manitoba.ca/covid19){:target="_blank"} 1-888-315-9257
+5. [Ontario](https://www.publichealthontario.ca){:target="_blank"} 1-866-797-0000
+6. [Quebec](https://www.quebec.ca/en/coronavirus){:target="_blank"} 1-877-644-4545
+7. [New Brunswick](https://www.gnb.ca/publichealth){:target="_blank"} 811
+8. [Nova Scotia](https://www.nshealth.ca/public-health){:target="_blank"} 811
+9. [Prince Edward Island](https://www.princeedwardisland.ca/covid19){:target="_blank"} 811
+10. [New Foundland and Labrador](https://www.gov.nl.ca/covid-19){:target="_blank"} 811 or 1-888-709-2929
+11. [Nunavut](https://www.gov.nu.ca/health){:target="_blank"} 867-975-5772
+12. [Northwest Territories](https://www.hss.gov.nt.ca){:target="_blank"} 911
+13. [Yukon Territory](https://www.yukon.ca/covid-19){:target="_blank"} 811
 
-For more information call 1-833-784-4397 or visit [here](canada.ca/coronavirus){:target="_blank"}.
+For more information call 1-833-784-4397 or visit [here](https://canada.ca/coronavirus){:target="_blank"}.
 
 ### Download Goverment Handouts
 
