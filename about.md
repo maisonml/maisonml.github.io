@@ -15,6 +15,8 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
+> In depth country stats of USA, Canada and Italy were modified to include additional metrics like NewConfirmations, NewDeaths, PercentIncrease and so on. These changes will reflect from reports printed on or after 04-10-2020.
+
 > The report for 01-04-2020 was uploaded on 10.23 PM EST due to data unavailability for the day in the data sources.
 
 > A new metric- Measuring Outbreak Velocity: 5 Day Lagging Average Doubling Time (Top 20 Countries with the Highest Cases) is printed on reports on and after 03-28-2020.
