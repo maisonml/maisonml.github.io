@@ -15,6 +15,8 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
+> Additional state and county level metrics for US as in: US Detailed State and County Level Curves., Top 50 US Counties with the Highest Cases and Deaths and Overall US Choropleth Map were added to the reports from 04-16-2020.
+
 > In depth country stats of USA, Canada and Italy were modified to include additional metrics like NewConfirmations, NewDeaths, PercentIncrease and so on. These changes will reflect from reports printed on or after 04-10-2020.
 
 > The report for 01-04-2020 was uploaded on 10.23 PM EST due to data unavailability for the day in the data sources.
