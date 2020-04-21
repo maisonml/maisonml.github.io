@@ -15,6 +15,8 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
+> In depth India stats with state level confirmations, new confirmations, recoveries, active cases, deaths and new deaths are printed on reports on or after 04-19-2020. 
+
 > Canada province level curves are added for the most affected provinces- Quebec, Ontario, Alberta, British Columbia. It is printed for reports on and after 04-17-2020.
 
 > Additional state and county level metrics for US as in: US Detailed State and County Level Curves., Top 50 US Counties with the Highest Cases and Deaths and Overall US Choropleth Map were added to the reports from 04-16-2020.
