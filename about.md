@@ -15,6 +15,8 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
+> Jobs failed in the workflows at the data source, they were rerun at mightnight EST on 04/24, so 04/23 reports are available from 00.20 hrs EST on 04-24-2020.
+
 > In depth India stats with state level confirmations, new confirmations, recoveries, active cases, deaths and new deaths are printed on reports on or after 04-19-2020. 
 
 > Canada province level curves are added for the most affected provinces- Quebec, Ontario, Alberta, British Columbia. It is printed for reports on and after 04-17-2020.
