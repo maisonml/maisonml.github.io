@@ -49,7 +49,28 @@ Call [CDC](https://www.cdc.gov/){:target="_blank"} at: 800-232-4636
 27. [Maine](https://www.maine.gov/dhhs/coronavirus-resources.shtml){:target="_blank"} 211 ; **Text** your ZIP CODE to 898-211 ; **Email** info@211maine.org
 28. [Rhode Island](https://health.ri.gov/covid/){:target="_blank"} 401-462-2020 or 401-222-8022 ; **Email** dlt.covid19@dlt.ri.gov or RIDOH.COVID19Questions@health.ri.gov
 29. [New Hampshire](https://www.nh.gov/covid19/){:target="_blank"} 211 or 1-866-444-4211 ; TTY: 603-634-3388
-30. [Vermont](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus){:target="_blank"} 211 or 1-866-652-4636  
+30. [Vermont](https://www.healthvermont.gov/response/infectious-disease/2019-novel-coronavirus){:target="_blank"} 211 or 1-866-652-4636
+31. [Alabama](http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html){:target="_blank"}
+32. [Missouri](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/){:target="_blank"}
+33. [Alaska](http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/default.aspx){:target="_blank"}
+34. [Hawaii](https://health.hawaii.gov/docd/advisories/novel-coronavirus-2019/){:target="_blank"}
+35. [Arkansas](https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus){:target="_blank"}
+36. [Delaware](https://dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html){:target="_blank"}
+37. [Idaho](https://coronavirus.idaho.gov/){:target="_blank"}
+38. [Iowa](https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus){:target="_blank"}
+39. [Kansas](http://www.kdheks.gov/coronavirus/index.htm){:target="_blank"}
+40. [Kentucky](https://chfs.ky.gov/agencies/dph/Pages/covid19.aspx){:target="_blank"}
+41. [Mississippi](https://msdh.ms.gov/msdhsite/_static/14,0,420.html){:target="_blank"}
+42. [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt){:target="_blank"}
+43. [Nebraska](http://dhhs.ne.gov/Pages/Coronavirus.aspx){:target="_blank"}
+44. [New Mexico](https://www.nj.gov/health/cd/topics/ncov.shtml){:target="_blank"}
+45. [North Dakota](https://www.health.nd.gov/diseases-conditions/coronavirus){:target="_blank"}
+46. [South Dakota](https://doh.sd.gov/news/Coronavirus.aspx){:target="_blank"}
+47. [Oklahoma](https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/Coronavirus_Disease_2019/index.html){:target="_blank"} 877-215-8336
+48. [Oregon](https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx){:target="_blank"} 211
+49. [Utah](https://coronavirus.utah.gov/){:target="_blank"}
+50. [West Virginia](https://dhhr.wv.gov/Coronavirus%20Disease-COVID-19/Pages/default.aspx){:target="_blank"}
+51. [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/){:target="_blank"}
 
 ### Download Government Handouts
 
