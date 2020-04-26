@@ -6,7 +6,7 @@ image: /assets/icons/MaisonMLLogo.png
 
 ## About Maison ML
 
-**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 9 PM EST. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
+**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 1 AM EST for the day that just ended. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
 <br>
 
 The following are the product enhancements upcoming in the pipeline:
@@ -14,6 +14,8 @@ The following are the product enhancements upcoming in the pipeline:
 > TBD
 
 The following were the changes made to the reports and/or product:
+
+> **Important:** JHU announced that *We have tried to Push updates to the repository at approximately 00:00 UTC every day. In order to accommodate reporting across the lower 48 states of the United States, we are moving this update forward in time to occur between 03:30 and 04:00 UTC (23:30 – 00:00 EDT)*. So reports from 04-24-2020 will be printed at 1 AM EST. We apologize for the inconvenience, but it really is beyond our control. :grimacing: 
 
 > Jobs failed in the workflows at the data source, they were rerun at mightnight EST on 04/24, so 04/23 reports are available from 00.20 hrs EST on 04-24-2020.
 
