@@ -15,7 +15,7 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
-> **Important:** JHU announced that *We have tried to Push updates to the repository at approximately 00:00 UTC every day. In order to accommodate reporting across the lower 48 states of the United States, we are moving this update forward in time to occur between 03:30 and 04:00 UTC (23:30 – 00:00 EDT)*. So reports from 04-24-2020 will be printed at 1 AM EST. We apologize for the inconvenience, but it really is beyond our control. :grimacing: 
+> **Important:** JHU announced that *We have tried to Push updates to the repository at approximately 00:00 UTC every day. In order to accommodate reporting across the lower 48 states of the United States, we are moving this update forward in time to occur between 03:30 and 04:00 UTC (23:30 – 00:00 EDT)*. So reports from 04-24-2020 will be printed at 1 AM EST. We apologize for the inconvenience, but it really is beyond our control.
 
 > Jobs failed in the workflows at the data source, they were rerun at mightnight EST on 04/24, so 04/23 reports are available from 00.20 hrs EST on 04-24-2020.
 
