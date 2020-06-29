@@ -15,7 +15,12 @@ The following are the product enhancements upcoming in the pipeline:
 
 The following were the changes made to the reports and/or product:
 
-> **Important:** JHU announced that *We have tried to Push updates to the repository at approximately 00:00 UTC every day. In order to accommodate reporting across the lower 48 states of the United States, we are moving this update forward in time to occur between 03:30 and 04:00 UTC (23:30 – 00:00 EDT)*. So reports from 04-24-2020 will be printed at 1 AM EST. We apologize for the inconvenience, but it really is beyond our control.
+> **Important:** JHU made the following update: *We want to make everyone aware of another update to the release schedule for the daily products.
+We are moving the update time forward to occur between 04:45 and 05:15 GMT to accommodate daily updates from India's Ministry of Health and Family Welfare. *Thank you for your understanding.
+
+So the reports will be running everyday by 10.00 AM ET/ 7.00 AM PT for the day before the date of run. Eg: Report that runs on 06-29-2020 10.00 AM ET will be for the situational report for 06-28-2020. We apologize for the schedule update, our reports are heavily dependent on the schedule of the data sources.  
+
+> **Important:** JHU announced that *"We have tried to Push updates to the repository at approximately 00:00 UTC every day. In order to accommodate reporting across the lower 48 states of the United States, we are moving this update forward in time to occur between 03:30 and 04:00 UTC (23:30 – 00:00 EDT)"*. So reports from 04-24-2020 will be printed at 1 AM EST. We apologize for the inconvenience, but it really is beyond our control.
 
 > Jobs failed in the workflows at the data source, they were rerun at mightnight EST on 04/24, so 04/23 reports are available from 00.20 hrs EST on 04-24-2020.
 
