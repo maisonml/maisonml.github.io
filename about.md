@@ -6,14 +6,14 @@ image: /assets/icons/MaisonMLLogo.png
 
 ## About Maison ML
 
-**Maison ML** was started by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday at 1 AM EST for the day that just ended. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
+**Maison ML** was founded by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday by 10.00 AM ET/ 7.00 AM PT with the previous day's data. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
 <br>
 
 The following are the product enhancements upcoming in the pipeline:
 
 > TBD
 
-The following were the changes made to the reports and/or product:
+The following were the changes made to the reports and/or product over time sorted from new to old:
 
 > **Important:** JHU made the following update: *We want to make everyone aware of another update to the release schedule for the daily products.
 We are moving the update time forward to occur between 04:45 and 05:15 GMT to accommodate daily updates from India's Ministry of Health and Family Welfare. *Thank you for your understanding.
@@ -48,7 +48,7 @@ So the reports will be running everyday by 10.00 AM ET/ 7.00 AM PT for the day b
 
 ## About the Author of Maison ML
 
-**Dhivya Ravindran** was formerly working as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She also worked as a Senior Tech Engineer in **IBM Global Business Services**.
+**Dhivya Ravindran** was formerly working as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She also worked as a Senior Tech Engineer in **IBM Global Business Services**. She is part of the pro bono Data Science and Tech team at **U.S.Digital Response** helping Governments (U.S. Federal/ State/ County) and Public Servants respond to the COVID-19 crisis.   
 
 She holds an **Executive Programme in Global Business Management** from **IIM Calcutta**, a premier business school in Asia and also a **Masters in Industrial Engineering** degree from **College of Engineering Guindy, Anna University** in India.
 
