@@ -60,11 +60,16 @@ menu:
   - title:             Helpline and Resources
     url:               /helpline/   
     description:       COVID-19- Helpline Numbers, Local Resources and Handouts
-    image:             /assets/img/covid.png
+    image:             /assets/icons/MaisonMLLogo.png
+    
+  - title:             Other COVID-19 Products
+    url:               /other/
+    description:       Access other COVID-19 Products via Maison ML
+    image:             /assets/icons/MaisonMLLogo.png
     
   - title:             About
     url:               /about/
-    description:       Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+    description:       About the Data Scientist and Data Product Owner behind Maison ML
     image:             /assets/icons/MaisonMLLogo.png
 
 # Add links to the footer.
