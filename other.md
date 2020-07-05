@@ -13,11 +13,11 @@ image: /assets/icons/MaisonMLLogo.png
 
 Find COVID-19 financial assistance for your business. This is a free tool built by USDR and is for U.S.-based businesses including:
 
-Nonprofits
-Tribal business concerns
-Self-employed individuals
-Contractors, freelancers, and gig workers
-Small business with fewer than 500 employees (including C Corp, S Corp, LLC)
+* Nonprofits
+* Tribal business concerns
+* Self-employed individuals
+* Contractors, freelancers, and gig workers
+* Small business with fewer than 500 employees (including C Corp, S Corp, LLC)
 
 Access [COVID Loan Info](https://covidloaninfo.org/).
 
@@ -33,7 +33,7 @@ Access [Rt COVID-19](https://rt.live/).
 * Could the coronavirus be on fruits, vegetables, produce and other food products?
 * Why do viruses survive outside the human body?
 
-Do you have more questions like these? You can search for instant answers to your questions, or click "Ask a scientist a question" to have your question routed to our network of researchers and volunteers who are standing by to assist. 
+Do you have more questions like these? You can search for instant answers to your questions or click "Ask a scientist a question" to have your question routed to our network of researchers and volunteers who are standing by to assist. 
 
 Access [FAQs from FAS](https://covid19.fas.org/).
 
