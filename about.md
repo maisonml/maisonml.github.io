@@ -9,6 +9,10 @@ image: /assets/icons/MaisonMLLogo.png
 **Maison ML** was founded by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday by 10.00 AM ET/ 7.00 AM PT with the previous day's data. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
 <br>
 
+### Tech Stack
+
+The reports are powered by [R Markdown](https://rmarkdown.rstudio.com/){:target="_blank"} running on [AWS](https://aws.amazon.com/ec2/){:target="_blank"}. The visualizations are built using [ggplot2](https://ggplot2.tidyverse.org/){:target="_blank"} and the rich data frames are built using [Formattable](http://renkun-ken.github.io/formattable/){:target="_blank"}. The product is built using [Jekyll](https://jekyllrb.com/){:target="_blank"} and hosted on [Github](https://github.com/){:target="_blank"}.
+
 The following are the product enhancements upcoming in the pipeline:
 
 > TBD
