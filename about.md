@@ -11,7 +11,7 @@ image: /assets/icons/MaisonMLLogo.png
 
 ### Tech Stack
 
-The reports are powered by [R Markdown](https://rmarkdown.rstudio.com/) running on [AWS](https://aws.amazon.com/ec2/). The visualizations are built using [ggplot2](https://ggplot2.tidyverse.org/) and the rich data frames are built using [Formattable](http://renkun-ken.github.io/formattable/). The product is built using [Jekyll](https://jekyllrb.com/) and hosted on [Github](https://github.com/).
+The reports are powered by [R Markdown](https://rmarkdown.rstudio.com/){:target="_blank"} running on [AWS](https://aws.amazon.com/ec2/){:target="_blank"}. The visualizations are built using [ggplot2](https://ggplot2.tidyverse.org/){:target="_blank"} and the rich data frames are built using [Formattable](http://renkun-ken.github.io/formattable/){:target="_blank"}. The product is built using [Jekyll](https://jekyllrb.com/){:target="_blank"} and hosted on [Github](https://github.com/){:target="_blank"}.
 
 The following are the product enhancements upcoming in the pipeline:
 
