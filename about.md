@@ -6,7 +6,7 @@ image: /assets/icons/MaisonMLLogo.png
 
 ## About Maison ML
 
-**Maison ML** was founded by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. The reports are updated everyday by 10.00 AM ET/ 7.00 AM PT with the previous day's data. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
+**Maison ML** was founded by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2021 COVID-19 Pandemic**. The reports are updated everyday by 10.00 AM ET/ 7.00 AM PT with the previous day's data. If you would like additional metrics added to this report or would like further features added to this product, please send out an email to dhivyaravindran@gmail.com. 
 <br>
 
 ### Tech Stack
