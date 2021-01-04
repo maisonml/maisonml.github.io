@@ -1,12 +1,12 @@
 ---
 title: Maison ML
-description: Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+description: Data Intensive Daily Situation Reports of the 2019- 2021 COVID-19 Pandemic
 image: /assets/icons/MaisonMLLogo.png
 ---
 
 ## Other Products
 
-**Maison ML** was founded by Dhivya Ravindran to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2020 COVID-19 Pandemic**. But in order to have a wholesome product experience with Maison ML, we provide links and resources to other useful COVID-19 products.
+**Maison ML** was founded to serve as an everyday reference of data intense daily situation reports on the onset, progression and updates of the **2019- 2021 COVID-19 Pandemic**. But in order to have a wholesome product experience with Maison ML, we provide links and resources to other useful COVID-19 products.
 <br>
 
 ### COVID Loan Info
