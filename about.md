@@ -1,6 +1,6 @@
 ---
 title: Maison ML
-description: Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+description: Data Intensive Daily Situation Reports of the 2019- 2021 COVID-19 Pandemic
 image: /assets/icons/MaisonMLLogo.png
 ---
 
@@ -52,11 +52,11 @@ So the reports will be running everyday by 10.00 AM ET/ 7.00 AM PT for the day b
 
 ## About the Author of Maison ML
 
-**Dhivya Ravindran** was formerly working as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She also worked as a Senior Tech Engineer in **IBM Global Business Services**. She is part of the pro bono Data Science and Tech team at **U.S.Digital Response** helping Governments (U.S. Federal/ State/ County) and Public Servants respond to the COVID-19 crisis.   
+**Dhivya Ravindran** has worked as a Senior Data Scientist in **BankBazaar.Com**, a neutral marketplace for financial products funded by the likes of **Amazon** and **Experian**. She has also worked as a Senior Tech Engineer in **IBM Global Business Services** and as a Chief Data Scientist in **Grandatos**. She is part of the pro bono Data Science and Tech team at **U.S.Digital Response** helping Governments (U.S. Federal/ State/ County) and Public Servants respond to the COVID-19 crisis.   
 
-She holds an **Executive Programme in Global Business Management** from **IIM Calcutta**, a premier business school in Asia and also a **Masters in Industrial Engineering** degree from **College of Engineering Guindy, Anna University** in India.
+She holds an **Executive Programme in Global Business Management** from **IIM Calcutta**, a top business school in Asia and a **Masters in Industrial Engineering** degree from **College of Engineering Guindy, Anna University** and also a **Bachelors in Electrical and Electronics Engineering** degree.
 
-She worked extensively as a **Full Stack Data Scientist**- with wide expertise in data collection from structured, semi- structured and un- structured data sources, manipulating and crunching data for insights, building machine learning models and products, integrating the models into products and solutions, A/B testing, continuous monitoring and maintenance of ML models and solutions.
+She has worked extensively (experience includes ~5 years in Data Science and Machine Learning and 2 years in Software Engineering) as a **Full Stack Data Scientist**- with wide expertise in data collection from structured, semi- structured and un- structured data sources, manipulating and crunching data for insights, building machine learning models and products, integrating the models into products and solutions, A/B testing, continuous monitoring and maintenance of ML models and solutions.
 
 She has worked in **Fintech, e-Commerce, Product Tech and Banking** industries. She has worked both in MNCs and Start-ups. 
 
