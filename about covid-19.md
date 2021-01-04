@@ -1,6 +1,6 @@
 ---
 title: Maison ML
-description: Data Intensive Daily Situation Reports of the 2019- 2020 COVID-19 Pandemic
+description: Data Intensive Daily Situation Reports of the 2019- 2021 COVID-19 Pandemic
 image: /assets/icons/MaisonMLLogo.png
 ---
 
